@@ -10,3 +10,7 @@ I hope this is now enough text to complete the task.
 
 ## Quote
 > I'm going to show you who's the git master!
+
+## Image
+<img src="https://openhpi.azureedge.net/assets/logo_openhpi-155a11eefd46841c38fb009a2d9b84d28550a0c920fbf50b591b3aa1f7c0190c.png"/>
+
