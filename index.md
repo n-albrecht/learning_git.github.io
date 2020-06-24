@@ -6,4 +6,4 @@ I hope this is now enough text to complete the task.
 ## Traits
 * computerphile
 * interested
-+ nosy
+* nosy
