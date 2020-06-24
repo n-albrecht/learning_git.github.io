@@ -7,3 +7,6 @@ I hope this is now enough text to complete the task.
 * computerphile
 * interested
 * nosy
+
+## Quote
+> I'm going to show you who's the git master!
